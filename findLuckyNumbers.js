@@ -37,9 +37,3 @@ function generateLuckyNums(numPicks) {
 
     return answer;
 }
-
-console.log(generateLuckyNums(4));
-console.log(generateLuckyNums(4));
-console.log(generateLuckyNums(7));
-console.log(generateLuckyNums(7));
-console.log(generateLuckyNums(9));
